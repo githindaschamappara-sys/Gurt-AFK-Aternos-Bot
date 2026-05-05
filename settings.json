@@ -9,7 +9,7 @@
     "ip": "MortalitySMP.aternos.me",
     "port": 49097,
     "version": "",
-    "try-creative": True
+    "try-creative": False
   },
   "position": {
     "enabled": true,
